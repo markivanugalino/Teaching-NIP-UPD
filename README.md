@@ -1,4 +1,4 @@
-# Teaching-NIP-UPD-
+# Teaching-NIP-UPD
 Teaching is one of the best ways to learn new things. I have been teaching as an instructor at the National Institute of Physics, University of the Philippines Diliman for two years now. 
 
 _Courses taught:_
